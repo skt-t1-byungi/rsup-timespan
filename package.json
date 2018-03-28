@@ -5,6 +5,10 @@
     "name": "skt-t1-byung",
     "email": "tiniwz@gmail.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skt-t1-byungi/rsup-timespan.git"
+  },
   "keywords": [
     "timespan",
     "time",
