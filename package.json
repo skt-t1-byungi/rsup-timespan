@@ -1,36 +1,37 @@
 {
-  "name": "rsup-timespan",
-  "description": "Timespan library for browser",
-  "author": {
-    "name": "skt-t1-byung",
-    "email": "tiniwz@gmail.com"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/skt-t1-byungi/rsup-timespan.git"
-  },
-  "keywords": [
-    "timespan",
-    "time",
-    "timing",
-    "duration",
-    "interval",
-    "date",
-    "elapsed"
-  ],
-  "version": "0.0.1",
-  "main": "index.js",
-  "license": "MIT",
-  "scripts": {
-    "test": "ava"
-  },
-  "devDependencies": {
-    "ava": "^0.25.0",
-    "delay": "^2.0.0",
-    "eslint": "^4.19.1",
-    "eslint-config-byungi": "^0.0.12"
-  },
-  "eslintConfig": {
-    "extends": "byungi"
-  }
+    "name": "rsup-timespan",
+    "description": "Timespan library for browser",
+    "author": {
+        "name": "skt-t1-byung",
+        "email": "tiniwz@gmail.com"
+    },
+    "version": "0.0.1",
+    "main": "index.js",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/rsup-timespan.git"
+    },
+    "keywords": [
+        "timespan",
+        "time",
+        "timing",
+        "duration",
+        "interval",
+        "date",
+        "elapsed"
+    ],
+    "license": "MIT",
+    "scripts": {
+        "test": "ava"
+    },
+    "devDependencies": {
+        "ava": "^2.2.0",
+        "delay": "^4.3.0",
+        "eslint": "^6.0.1",
+        "eslint-config-byungi": "^0.3.0"
+    },
+    "eslintConfig": {
+        "extends": "byungi"
+    }
 }
