@@ -1,9 +1,14 @@
 # rsup-timespan
-Timespan library for browser
+timespan library for browser
+
+[![npm](https://flat.badgen.net/npm/v/rsup-timespan)](https://www.npmjs.com/package/rsup-timespan)
+
+![zilean](./zilean.jpg)
+
 
 ## Install
 ```sh
-yarn add rsup-timespan
+npm i rsup-timespan
 ```
 
 ## Usage
