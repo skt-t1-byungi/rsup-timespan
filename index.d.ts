@@ -1,3 +1,3 @@
-declare function timespan() : (type:'s'|'ms') => number
+declare function timespan() : (type?:'s'|'ms') => number
 
 export = timespan
